@@ -12,7 +12,7 @@ Watch our model in action and see how it beautifully integrates AI with culinary
 [![Demo Video](https://img.youtube.com/vi/lWZhoGJZeWQ/hqdefault.jpg)](https://www.youtube.com/watch?v=lWZhoGJZeWQ)
 
 🌟 **Key Highlights**:
-- **Enhanced Detection**: Our model can recognize dessert items that were previously undetectable by standard Llava and even GPT-4 models.
+- **Enhanced Detection**: Our model can recognize some dessert items that were previously undetectable by standard Llava and even GPT-4 models.
 - **Image Recognition**: It showcases improved accuracy in image detection, surpassing GPT-4v in recognizing specific images and providing detailed information.
 - **Replicate Training**: Utilized Replicate for training and hosting, ensuring a seamless integration and user experience.
 
